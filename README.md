@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcanjoNunes
 - 👀 I’m interested in IT at all
-- 🌱 I’m currently learning Mojo and Data Science
+- 🌱 I’m currently learning working DDD, MMA.
 - 💞️ I’m looking to collaborate on those areas
 - 📫 You found me 
 
